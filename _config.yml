@@ -9,9 +9,7 @@ name: Devlog
 description: A developers view about programming and world
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://get.google.com/albumarchive/102695557618458626179/album/AF1QipMA89dTpykXXcDq1mYTvwMogn8JScmai4260IES/AF1QipOzyMp1YnVgvivWfLl2mstWmsdSwkBYpMpIt3ib
-
-#
+avatar: https://photos.google.com/share/AF1QipPBV_-JzMtdiCM-uwwnQi_JZHqtl4e7Wt_toq03xNPk7Uh7DFfbIn1hEQMuJlnuTg/photo/AF1QipPGumImzpzfUvxiloNNNbPaUGA5CNAlIU62U8G2?key=NHAtb0lkeW51aFVkd3BTOHJPaC1RNVZMVnc0R253
 # Flags below are optional
 #
 
@@ -19,11 +17,11 @@ avatar: https://get.google.com/albumarchive/102695557618458626179/album/AF1QipMA
 footer-links:
   dribbble:
   email: abirbasak@gmail.com
-  facebook: https://www.facebook.com/abirbasak
+  facebook: abirbasak
   flickr:
-  github: https://github.com/abirbasak
+  github: abirbasak
   instagram:
-  linkedin: https://www.linkedin.com/in/abirkbasak/
+  linkedin: abirkbasak/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
